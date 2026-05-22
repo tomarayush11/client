@@ -1,1 +1,7 @@
-
+{
+  "client_name": "My appy",
+  "client_id": "https://tomarayush11.github.io/client/client1/ddddddddddddddddddddddddddaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb/cccccccccccccccccccccccccccccccccccccccccccccccccc/dddddddddddddddddddddddddddddddddddddddddddddddddd/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/client.json",
+  "redirect_uris": [
+    "http://localhost:8000/oauth21dcr"
+  ]
+}
